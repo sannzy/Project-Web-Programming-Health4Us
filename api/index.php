@@ -1,3 +1,3 @@
 <?php
 
-echo "API INDEX WORKING";
+require __DIR__ . '/../public/index.php';
